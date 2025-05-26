@@ -1,0 +1,11 @@
+.custom-checkbox-orange:checked {
+  background-color: #d35400;
+  border-color: #d35400;
+}
+.text-orange {
+  color: #d35400;
+}
+
+html {
+  overflow-y: scroll;
+}
